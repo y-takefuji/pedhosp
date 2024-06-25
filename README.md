@@ -10,4 +10,4 @@ To display a graph of the result, run the following command:
 $ pedhosp
 </pre>
 
-<img src='https://github.com/y-takefuji/pedhosp/blob/main/pediatric.png' height=360 width=600>
+<img src='https://github.com/y-takefuji/pedhosp/raw/main/pediatric.png' height=360 width=600>
