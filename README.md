@@ -2,7 +2,7 @@
 
 <pre>
 The objective of this program is to generate a visualization 
-representing the count of pediatric COVID-19 hospitalizations 
+representing the count of pediatric COVID-19 hospitalization admissions
 in the US, spanning from August 8, 2020, to June 15, 2024.
   
 To install pedhosp, use pip command.
